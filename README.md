@@ -9,10 +9,10 @@ The goal of this project is to create a distributed, scalable, secure and robust
 
 The project is consisted of some components:
 
-* [audit-mq-collector](https://github.com/crcpuc/audit-mq-collector)
-* [audit-view](https://github.com/crcpuc/audit-view)
-* [audit-model](https://github.com/crcpuc/audit-model)
-* [audit-appclient-spring](https://github.com/crcpuc/audit-appclient-spring)
+* [audit-mq-collector](https://github.com/atende/audit-mq-collector)
+* [audit-view](https://github.com/atende/audit-view)
+* [audit-model](https://github.com/atende/audit-model)
+* [audit-appclient-spring](https://github.com/atende/audit-appclient-spring)
 
 For more information see the [docs](./docs/index.md)
 
