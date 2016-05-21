@@ -18,10 +18,10 @@ The goal of this project is to create a distributed, scalable, secure and robust
 
 The project is consisted of some developed components:
 
-* [audit-mq-collector](https://github.com/atende/audit-mq-collector)
-* [audit-view](https://github.com/atende/audit-view)
-* [audit-model](https://github.com/atende/audit-model)
-* [audit-appclient-spring](https://github.com/atende/audit-appclient-spring)
+* [audit-mq-collector](https://atende.github.io/audit-mq-collector)
+* [audit-view](https://atende.github.io/audit-view)
+* [audit-model](https://atende.github.io/audit-model)
+* [audit-appclient-spring](https://atende.github.io/audit-appclient-spring)
 
 And some infraestruture components
 
