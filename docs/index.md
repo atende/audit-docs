@@ -25,8 +25,8 @@ The project is consisted of some developed components:
 
 And some infraestruture components
 
-* [RabbitMQ](https://www.rabbitmq.com/)
-* [Postgresql](www.postgresql.org/)
+* [RabbitMQ](http://www.rabbitmq.com/)
+* [Postgresql](http://www.postgresql.org/)
 
 Every component, including the infrastructure components, could be changed. For instance you can use a cassandra database, a mongodb database, or any other database you want.
 
