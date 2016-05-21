@@ -2,9 +2,9 @@
 <section class="page-header">
       <h1 class="project-name">Audit-docs</h1>
       <h2 class="project-tagline">Documentation for the project Audition</h2>
-      <a href="https://github.com/crcpuc/audit-docs" class="btn btn-primary">View on GitHub</a>
-      <a href="https://github.com/crcpuc/audit-docs/zipball/master" class="btn btn-primary">Download .zip</a>
-      <a href="https://github.com/crcpuc/audit-docs/tarball/master" class="btn btn-primary">Download .tar.gz</a>
+      <a href="https://github.com/atende/audit-docs" class="btn btn-primary">View on GitHub</a>
+      <a href="https://github.com/atende/audit-docs/zipball/master" class="btn btn-primary">Download .zip</a>
+      <a href="https://github.com/atende/audit-docs/tarball/master" class="btn btn-primary">Download .tar.gz</a>
 </section>
 
 # About
@@ -18,10 +18,10 @@ The goal of this project is to create a distributed, scalable, secure and robust
 
 The project is consisted of some developed components:
 
-* [audit-mq-collector](https://github.com/crcpuc/audit-mq-collector)
-* [audit-view](https://github.com/crcpuc/audit-view)
-* [audit-model](https://github.com/crcpuc/audit-model)
-* [audit-appclient-spring](https://github.com/crcpuc/audit-appclient-spring)
+* [audit-mq-collector](https://github.com/atende/audit-mq-collector)
+* [audit-view](https://github.com/atende/audit-view)
+* [audit-model](https://github.com/atende/audit-model)
+* [audit-appclient-spring](https://github.com/atende/audit-appclient-spring)
 
 And some infraestruture components
 
