@@ -6,7 +6,7 @@ Each component play a role in the architecture represented by Figure 1:
 
 Let's start by talking about what an application need to do to be audited.
 
-A application need's to do only one thing: **Publish AuditEvents**
+A application need to do only one thing: **Publish AuditEvents**
 
 Suppose you want to audit every login and logout to a system. The login event is the event you need to catch in your application and publish in the message bus
 
