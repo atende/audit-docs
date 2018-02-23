@@ -14,5 +14,7 @@ The project is consisted of some components:
 * [audit-model](https://github.com/atende/audit-model)
 * [audit-appclient-spring](https://github.com/atende/audit-appclient-spring)
 
+[Video Explanation](https://www.youtube.com/watch?v=no-mHxizbWc)
+
 For more information see the [docs](./docs/index.md)
 
